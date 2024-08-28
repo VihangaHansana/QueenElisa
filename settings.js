@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/a6613fc154a69d1ce94d4.jpg',
-  MONGODB_URL: 'mongodb+srv://vihangadesilva0527:niki0220@cluster0.gkwuvqk.mongodb.net', 
+  MONGODB_URL: 'mongodb+srv://vihangahansana060527:@Nikiya0220@cluster0.mx9jr.mongodb.net', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
